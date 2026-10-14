@@ -48,13 +48,5 @@ I bridge the gap between low-level system hardware, software architecture, and a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogTechie&show_icons=true&theme=tokyonight&hide_border=true" alt="Abrar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogTechie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/abrar-proyash) | [Email](mailto:abrarproyash.7@gmail.com)
