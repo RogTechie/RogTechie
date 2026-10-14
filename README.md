@@ -1,47 +1,60 @@
-# Hi there, I'm Abrar 👋
+# Hi, I'm Abrar Proyash 👋
 
-### Level 5 CS Student @ University of Hertfordshire | Former Military Captain (8 Yrs Ops Leadership)
-
-I am a Computer Science student at the University of Hertfordshire and a former commissioned Military Officer (Captain) with 8 years of operational leadership. I combine strict process discipline, crisis management, and technical logistics with a deep focus on **low-level systems engineering, C/C++ development, and hardware-software integration**.
-
-Currently seeking a 12-month **Software Engineering**, **Embedded Systems**, or **Automotive Software** placement starting Summer 2027.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abrar%20Proyash-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abrar-proyash)
+[![Email](https://img.shields.io/badge/Email-abrarproyash.7%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abrarproyash.7@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Greater%20London%2C%20UK-red?style=flat-square&logo=googlemaps)](https://maps.google.com)
 
 ---
 
-### 🛠️ Technical Skillset & Tools
+## 🎯 About Me
 
-- **Programming Languages:** C, C++, Python, SQL, Assembly (CdM-8), Java
-- **Systems & Concepts:** Memory Management, Pointers & References, Object-Oriented Programming (OOP), Data Structures & Algorithms, Linux/Android Shell Scripting
-- **Developer Tools & Environments:** Git, GitHub, VS Code, GCC/G++, CMake, Linux Terminal
-- **Domain Focus:** Low-Level Systems, Microcontrollers, Vehicle Telemetry & Embedded Prototyping
+I am a **Level 5 Computer Science (Artificial Intelligence)** student at the **University of Hertfordshire** and a former **commissioned Military Captain (8 years of service)** with extensive experience managing operational risk, crisis diagnostics, and complex hardware/optical systems.
 
----
+I bridge the gap between low-level system hardware, software architecture, and artificial intelligence—applying systematic root-cause analysis and operational discipline to solve complex technology challenges.
 
-### 📂 Featured Technical Projects
-
-#### 🚗 C++ Vehicle Telemetry & Diagnostic Simulator
-> *Command-line diagnostic tool built in C++ to simulate real-time sensor processing and system telemetry.*
-- **Tech Stack:** C++, GCC, CMake, Object-Oriented Programming (OOP)
-- **Key Features:** Real-time data packet processing using `struct` & pointers, dynamic memory management, file logging for metrics, and simulated error-code generation.
-
-#### 🤖 Embedded & System Architecture Experiments
-> *Explorations in low-level memory allocation, hardware registers, and machine-level instruction sets.*
-- **Tech Stack:** C, Assembly (CdM-8), Linux Utilities
-- **Key Features:** Direct register manipulation, stack frame management, custom memory-mapped I/O logic.
+* 🎓 **Degree:** BSc (Hons) Computer Science (Artificial Intelligence) — University of Hertfordshire
+* 🎖️ **Background:** Former Captain, Corps of Artillery, Bangladesh Armed Forces (2017–2025)
+* 💻 **Primary Interests:** Enterprise IT Infrastructure, Systems Diagnostics, Artificial Intelligence, Custom PC Engineering, and C++/Python Development
+* 🎯 **Goal:** Industrial Placement 2027–2028 in Core IT Infrastructure, Operations, and AI Engineering
 
 ---
 
-### 🎖️ Background & Military Leadership
+## 🛠 Tech Stack & Core Competencies
 
-Before transitioning into computer science, I served as a **Captain in the Corps of Artillery (8 years)**:
-- **Hardware & Calibration:** Managed maintenance lifecycles, calibration, and field readiness for high-value heavy artillery systems and sensitive electronic/optical equipment.
-- **Quantitative Computation:** Conducted real-time ballistics computing and spatial data processing under strict operational timelines.
-- **Technical Instruction:** Served as a Course Instructor, breaking down complex operational concepts into structured training for undercommand personnel.
+### **Programming & Development**
+`Python` `C++` `C` `Java` `Kotlin` `SQL` `Assembly`
+
+### **Systems, Infrastructure & Diagnostics**
+`Linux / Windows Administration` `Hardware Troubleshooting & Thermal Optimization` `BIOS / Firmware Diagnostics` `Low-Level Memory Analysis` `Network Fundamentals`
+
+### **Developer & AI Tooling**
+`Git / GitHub` `Android Studio` `Flutter / Flet` `AI Automation Workflows` `VS Code`
 
 ---
 
-### 📬 Connect with Me
+## 🚀 Key Projects
 
-- **LinkedIn:** [linkedin.com/in/abrar-proyash](https://www.linkedin.com/in/abrar-proyash)
-- **GitHub:** [github.com/RogTechie](https://github.com/RogTechie)
-- **Location:** Hertfordshire / Greater London, UK
+### 🏋️ **Nutritional & Macro Requirement Calculator**
+> *Modular Python application for personalized nutritional metrics and dynamic caloric calculations.*
+* Built algorithmically based on the Mifflin-St Jeor equation with dynamic macro distribution logic.
+* Integrated robust `try-except` error handling and input validation to eliminate runtime edge-case crashes.
+* Focus on modular design patterns, readability, and user-centric data output.
+
+### 🖥️ **High-Performance Hardware Diagnostic & Stress Bench**
+> *Custom hardware engineering and low-level diagnostic performance optimization.*
+* Configured and stress-tested high-end computing systems, resolving thermal throttling and system bus instability.
+* Conducted BIOS-level voltage and power parameter tuning (Precision Boost Overdrive/Curve Optimizer).
+* Performed low-level diagnostic telemetry analysis to optimize stability under multi-threaded compute workloads.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RogTechie&show_icons=true&theme=tokyonight&hide_border=true" alt="Abrar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogTechie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/abrar-proyash) | [Email](mailto:abrarproyash.7@gmail.com)
