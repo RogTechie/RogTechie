@@ -1,52 +1,34 @@
 # Hi, I'm Abrar Proyash 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abrar%20Proyash-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abrar-proyash)
-[![Email](https://img.shields.io/badge/Email-abrarproyash.7%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abrarproyash.7@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Greater%20London%2C%20UK-red?style=flat-square&logo=googlemaps)](https://maps.google.com)
+I’m a Level 5 Computer Science (Artificial Intelligence) student at the University of Hertfordshire, where I started in September 2025. I’m looking for a computer science or software engineering placement for 2027–2028.
 
----
+I enjoy exploring new technology, learning how software works, and investigating problems independently. I bring a methodical approach to troubleshooting, developed through my studies, personal projects, and previous service as a commissioned officer in the Bangladesh Armed Forces. In that role, I led teams and helped maintain and calibrate electronic and optical equipment.
 
-## 🎯 About Me
+## Skills
 
-I am a **Level 5 Computer Science (Artificial Intelligence)** student at the **University of Hertfordshire** and a former **commissioned Military Captain (8 years of service)** with extensive experience managing operational risk, crisis diagnostics, and complex hardware/optical systems.
+- **Python:** used in my Macro and Nutrition Calculator project
+- **PL/SQL:** database programming
+- **Java:** currently learning
+- **HTML and CSS:** used in a coursework profile website
+- **Tools:** Git, GitHub, and Tkinter
 
-I bridge the gap between low-level system hardware, software architecture, and artificial intelligence—applying systematic root-cause analysis and operational discipline to solve complex technology challenges.
+## Projects
 
-* 🎓 **Degree:** BSc (Hons) Computer Science (Artificial Intelligence) — University of Hertfordshire
-* 🎖️ **Background:** Former Captain, Corps of Artillery, Bangladesh Armed Forces (2017–2025)
-* 💻 **Primary Interests:** Enterprise IT Infrastructure, Systems Diagnostics, Artificial Intelligence, Custom PC Engineering, and C++/Python Development
-* 🎯 **Goal:** Industrial Placement 2027–2028 in Core IT Infrastructure, Operations, and AI Engineering
+### Macro and Nutrition Calculator
 
----
+A Python desktop application built with Tkinter. Users enter body weight to see simple daily estimates for calories, protein, fat, fibre, carbohydrates, and water. The app validates the input and includes a clear button. The formulas are simplified estimates and are not medical advice.
 
-## 🛠 Tech Stack & Core Competencies
+[View the project on GitHub](https://github.com/RogTechie/macronutrition-calculator)
 
-### **Programming & Development**
-`Python` `C++` `C` `Java` `Kotlin` `SQL` `Assembly`
+### Profile Website Coursework
 
-### **Systems, Infrastructure & Diagnostics**
-`Linux / Windows Administration` `Hardware Troubleshooting & Thermal Optimization` `BIOS / Firmware Diagnostics` `Low-Level Memory Analysis` `Network Fundamentals`
+A profile website built with HTML and CSS as part of my coursework.
 
-### **Developer & AI Tooling**
-`Git / GitHub` `Android Studio` `Flutter / Flet` `AI Automation Workflows` `VS Code`
+## Background
 
----
+- **BSc (Hons) Computer Science (Artificial Intelligence)** — University of Hertfordshire, 2025–2029 (expected)
+- **Commissioned Officer (Captain)** — Bangladesh Armed Forces, 2017–2025
 
-## 🚀 Key Projects
+## Contact
 
-### 🏋️ **Nutritional & Macro Requirement Calculator**
-> *Modular Python application for personalized nutritional metrics and dynamic caloric calculations.*
-* Built algorithmically based on the Mifflin-St Jeor equation with dynamic macro distribution logic.
-* Integrated robust `try-except` error handling and input validation to eliminate runtime edge-case crashes.
-* Focus on modular design patterns, readability, and user-centric data output.
-
-### 🖥️ **High-Performance Hardware Diagnostic & Stress Bench**
-> *Custom hardware engineering and low-level diagnostic performance optimization.*
-* Configured and stress-tested high-end computing systems, resolving thermal throttling and system bus instability.
-* Conducted BIOS-level voltage and power parameter tuning (Precision Boost Overdrive/Curve Optimizer).
-* Performed low-level diagnostic telemetry analysis to optimize stability under multi-threaded compute workloads.
-
----
-
-
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/abrar-proyash) | [Email](mailto:abrarproyash.7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abrar-proyash) · [Email](mailto:abrarproyash.7@gmail.com)
